@@ -64,6 +64,7 @@ main {
     width: 700px;
     max-width: 100%;
     margin: 1em auto;
+    background: #000;
 }
 
 .meme--image {
